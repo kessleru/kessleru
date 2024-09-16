@@ -7,6 +7,6 @@
 # Insights
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&show_icons=true&theme=dark&locale=en&layout=compact" alt="kessleru" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kessleru&theme=dark" alt="kessleru" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kessleru&theme=dark" alt="kessleru" />
 
           
