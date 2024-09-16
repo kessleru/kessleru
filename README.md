@@ -6,6 +6,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
 # Insights
 <div style="display: flex; justify-content: center; align-items: flex-start;">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&show_icons=true&theme=dark&locale=en&layout=compact" alt="kessleru" style="margin-right: 10px; height: 200px;" />   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&show_icons=true&theme=dark&locale=en&layout=compact" alt="kessleru" style="margin-right: 1px; height: 200px;" />   
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kessleru&theme=dark" alt="kessleru" style="height: 200px;" />  
 </div>  
