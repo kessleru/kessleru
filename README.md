@@ -1,5 +1,6 @@
-# Sobre mim 💪😁 <img scr = https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif />
-- 👋 Olá, sou o Otávio. Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.
+![Descrição da Imagem](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+# Sobre mim 💪😁
+- 👋 Olá, sou o Otávio AKA Kessler . Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.
 - 👀 Me interesso pelas áres de desenvolvimento web e também na área de jogos.
 - 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
 
