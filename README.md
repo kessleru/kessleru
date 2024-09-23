@@ -4,7 +4,7 @@
 
 # Sobre mim 💪😁
 - 👋 Olá, sou o Otávio AKA Kessler . Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.
-- 👀 Me interesso pelas áres de desenvolvimento web e também na área de jogos (por enquanto...).
+- 👀 Me interesso pelas áres de desenvolvimento web e também na área de jogos (por enquanto).
 - 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
 
 # Minhas Skills 🤓
