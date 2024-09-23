@@ -1,4 +1,4 @@
-# Sobre mim 🤠
+# Sobre mim 💪😁
 - 👋 Olá, sou o Otávio. Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.
 - 👀 Me interesso pelas áres de desenvolvimento web e também na área de jogos.
 - 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
