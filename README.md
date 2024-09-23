@@ -1,8 +1,9 @@
-# Sobre mim
+# Sobre mim 🤠
 - 👋 Olá, sou o Otávio. Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.
 - 👀 Me interesso pelas áres de desenvolvimento web e também na área de jogos.
+- 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
 
-# Habilidades
+# Minhas Skills 🤓
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,unity)](https://skillicons.dev)
 # Insights
 <div style="display: flex; justify-content: center; align-items: flex-start;">  
