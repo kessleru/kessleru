@@ -25,7 +25,6 @@
 <div align="center">
   <a href="https//github.com/kessleru">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kessleru&show_icons=true&bg_color=0d1117&title_color=f8f8f2&hide_border=true&text_color=ffff&icon_color=8be9fd&rank_icon=github&include_all_commits=true"  alt="Pedro github stats"/>
-    
-   <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kessleru&layout=compact&hide_border=true&title_color=f8f8f2&text_color=8be9fd&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kessleru&show_icons=true&bg_color=0d1117&title_color=f8f8f2&hide_border=true&text_color=ffff&icon_color=8be9fd&rank_icon=github&include_all_commits=true"  alt="Kessleru github stats"/>
+   <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kessleru&layout=compact&hide_border=true&title_color=f8f8f2&text_color=8be9fd&bg_color=0d1117"/> 
 </div> 
