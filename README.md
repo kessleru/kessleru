@@ -1,6 +1,12 @@
-<div style="text-align: center;">
+<div align = "center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = "700">
+  
 </div>
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&width=435&lines=Ot%C3%A1vio+Kessler+Ustra;Iftm+-+Ituiutaba" alt="Typing SVG" /></a>
+</p>
+
 
 # Sobre mim 💪😁
 - 👋 Olá, sou o Otávio. Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.
@@ -8,9 +14,18 @@
 - 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
 
 # Minhas Skills 🤓
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,unity)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python" />
+  </a>
+</p>
 # Dados 📊
-<div style="display: flex; justify-content: center; align-items: flex-start;">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&show_icons=true&theme=dark&locale=en&layout=compact" alt="kessleru" style="margin-right: 20px; height: 150px;" />   
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kessleru&theme=dark" alt="kessleru" style="height: 150px;" />  
-</div>  
+
+
+<div align="center">
+  <a href="https//github.com/pedrop-dev">
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&bg_color=0d1117&title_color=f8f8f2&hide_border=true&text_color=ffff&icon_color=8be9fd&rank_icon=github&include_all_commits=true"  alt="Pedro github stats"/>
+    
+   <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrop-dev&layout=compact&hide_border=true&title_color=f8f8f2&text_color=8be9fd&bg_color=0d1117" /> 
+</div> 
