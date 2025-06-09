@@ -36,8 +36,3 @@
     alt="Top Languages"
   />
 </div>
-
-# Contribuições 🐍
-<div align = "center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kessleru/kessleru/output/github-contribution-grid-snake.svg" />
-</div>
