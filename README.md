@@ -43,6 +43,6 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&theme=algolia&show_icons=true&layout=compact&card_width=320" alt="Top Languages" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=kessleru&theme=algolia&show_icons=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&theme=algolia&show_icons=true&layout=compact&card_width=320" alt="Top Languages" height="200" />
 </div>
