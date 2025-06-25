@@ -42,13 +42,7 @@
 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kessleru&show_icons=true&bg_color=0d1117&title_color=f8f8f2&hide_border=true&text_color=ffff&icon_color=8be9fd&rank_icon=github&include_all_commits=true"
-    alt="kessleru github stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessleru&theme=tokyonight)"
-    alt="Top Languages"
-  />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&theme=algolia&show_icons=true&layout=compact&card_width=320" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kessleru&theme=algolia&show_icons=true" alt="GitHub Stats" height="200" />
 </div>
