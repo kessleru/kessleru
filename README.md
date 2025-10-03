@@ -16,7 +16,7 @@
 
 <p>
 - 👋 Olá, sou o Otávio. Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.<br>
-- 👀 Me interesso pelas áres de desenvolvimento web e também na área de jogos (por enquanto).<br>
+- 👀 Me interesso pela área de desenvolvimento web.
 - 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
 </p>
 
