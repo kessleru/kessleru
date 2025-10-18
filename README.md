@@ -49,7 +49,7 @@
 
 # Projetos em destaque
 
-### [Site Animais Fantásticos](https://github.com/kessleru/Animais-Web)  
+### [Aplicação Web Interativa - Animais Fantásticos](https://github.com/kessleru/Animais-Web)  
 **HTML5, CSS3, JavaScript ES6, Docker, Azure, Let's Encrypt**  
 Site interativo sobre animais selvagens com infraestrutura moderna em produção.  
 🌐 **Live:** [https://kessleru.dev](https://kessleru.dev)  
@@ -61,4 +61,15 @@ Site interativo sobre animais selvagens com infraestrutura moderna em produção
 - Modal de login responsivo
 - Design responsivo com CSS Grid
 
+---
 
+### [Estudos Java - POO](https://github.com/kessleru/Java-POO)  
+**Java, Programação Orientada a Objetos**  
+Projeto educacional focado nos fundamentos da programação orientada a objetos em Java.  
+
+**Conceitos principais:**
+- Conceitos do java
+- Classes, objetos e instanciação
+- Encapsulamento, herança e polimorfismo
+- Abstração e interfaces
+- Métodos construtores e sobrecarga
