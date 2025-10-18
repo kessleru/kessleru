@@ -10,7 +10,7 @@
 
 <div>
 
-# Sobre mim 💪😁
+# Sobre mim
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div>
 
-# Minhas Skills 🤓
+# Minhas Skills
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div>
 
-# Dados 📊
+# Dados
 
 </div>
 
@@ -46,4 +46,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kessleru&theme=algolia&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&theme=algolia&show_icons=true&layout=compact&card_width=320" alt="Top Languages" />
 </div>
+
+# Projetos em destaque
+
+### [Site Animais Fantásticos](https://github.com/kessleru/Animais-Web)  
+**HTML5, CSS3, JavaScript ES6, Docker, Azure, Let's Encrypt**  
+Site interativo sobre animais selvagens com infraestrutura moderna em produção.  
+🌐 **Live:** [https://kessleru.dev](https://kessleru.dev)  
+
+**Funcionalidades principais:**  
+- Sistema de navegação por abas interativas
+- FAQ com efeito acordeão  
+- Animações de scroll e navegação suave
+- Modal de login responsivo
+- Design responsivo com CSS Grid
+
 
