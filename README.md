@@ -6,13 +6,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&width=435&lines=Ot%C3%A1vio+Kessler+Ustra;IFTM%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E-+%E2%80%8E+%E2%80%8E++Ituiutaba" alt="Typing SVG" /></a>
 </p>
 
-
-
-<div>
-
 # Sobre mim
-
-</div>
 
 <p>
 - 👋 Olá, sou o Otávio. Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.<br>
@@ -20,13 +14,7 @@
 - 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
 </p>
 
-
-
-<div>
-
 # Minhas Skills
-
-</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,18 +22,13 @@
   </a>
 </p>
 
-
-
-<div>
-
 # Dados
 
-</div>
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kessleru&theme=algolia&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessleru&theme=algolia&show_icons=true&layout=compact&card_width=320" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kessleru&show_icons=true&theme=algolia" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessleru&layout=compact&theme=algolia&hide=Jupyter%20Notebook" height="170" />
+</p>
 
 # Projetos em destaque
 
