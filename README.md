@@ -35,7 +35,7 @@
 ### [Aplicação Web Interativa - Animais Fantásticos](https://github.com/kessleru/Animais-Web)  
 **HTML5, CSS3, JavaScript ES6, Docker, Azure, Let's Encrypt**  
 Site interativo sobre animais selvagens com infraestrutura moderna em produção.  
-🌐 **Live:** [https://kessleru.dev](https://kessleru.dev)  
+🌐 **Live:** [https://kessleru.dev](https://kessleru.dev) ou [https://kessleru.github.io/Animais-Web/](https://kessleru.github.io/Animais-Web/)
 
 **Funcionalidades principais:**  
 - Sistema de navegação por abas interativas
