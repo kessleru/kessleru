@@ -68,7 +68,7 @@ Projeto desenvolvido na Origamid, atualmente com conteúdo genérico, futurament
 
 **JavaScript, Node.js, Next.js, React, PostgreSQL, Docker, Git**  
 🚧 **Em construção** - Atualizado mensalmente.  
-Projeto desenvolvido no curso.dev de Filipe Deschamps, reconstruindo do zero o TabNews (https://www.tabnews.com.br/), uma plataforma de notícias e discussões acessada por mais de 180.000 pessoas mensalmente. Focado em conhecimentos fundamentais de desenvolvimento full-stack, preparando para senioridade e trabalho em projetos reais.
+Projeto desenvolvido no curso.dev de Filipe Deschamps, reconstruindo do zero o TabNews (https://www.tabnews.com.br/). Focado em conhecimentos fundamentais de desenvolvimento full-stack, preparando para senioridade e trabalho em projetos reais.
 
 **Conceitos principais abordados:**
 
