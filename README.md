@@ -32,41 +32,66 @@
 
 # Projetos em destaque
 
-### [Aplicação Web Interativa - Animais Fantásticos](https://github.com/kessleru/Animais-Web)  
+### [Aplicação Web Interativa - Animais Fantásticos](https://github.com/kessleru/Animais-Web)
+
 **HTML5, CSS3, JavaScript ES6, Docker, Azure, Let's Encrypt**  
 Site interativo sobre animais selvagens com infraestrutura moderna em produção.  
 🌐 **Live:** [https://kessleru.dev](https://kessleru.dev) ou [Pages](https://kessleru.github.io/Animais-Web/)
 
-**Funcionalidades principais:**  
+**Funcionalidades principais:**
+
 - Sistema de navegação por abas interativas
-- FAQ com efeito acordeão  
+- FAQ com efeito acordeão
 - Animações de scroll e navegação suave
 - Modal de login responsivo
 - Design responsivo com CSS Grid
 
 ---
 
-### [Estudos Java - POO](https://github.com/kessleru/Java-POO)  
+### [Portfólio Pessoal](https://github.com/kessleru/Portifolio)
+
+**HTML5, CSS3, JavaScript (futuro)**  
+Projeto desenvolvido na Origamid, atualmente com conteúdo genérico, futuramente personalizado com informações pessoais e funcionalidades interativas em JavaScript.  
+🌐 **Live:** [Pages](https://kessleru.github.io/Portifolio/)
+
+**Funcionalidades principais:**
+
+- Seção de introdução com foto e descrição
+- Experiência profissional
+- Formação acadêmica
+- Contato
+- Design responsivo
+
+---
+
+### [TabNews - Curso.dev](https://github.com/kessleru/tabnews-cursoDev)
+
+**JavaScript, Node.js, Next.js, React, PostgreSQL, Docker, Git**  
+🚧 **Em construção** - Atualizado mensalmente.  
+Projeto desenvolvido no curso.dev de Filipe Deschamps, reconstruindo do zero o TabNews (https://www.tabnews.com.br/), uma plataforma de notícias e discussões acessada por mais de 180.000 pessoas mensalmente. Focado em conhecimentos fundamentais de desenvolvimento full-stack, preparando para senioridade e trabalho em projetos reais.
+
+**Conceitos principais abordados:**
+
+- Controle de Versão e Colaboração (Git, GitHub, CI/CD)
+- Qualidade de Código (ESLint, Prettier, TDD/BDD, Testes)
+- Banco de Dados e Persistência (PostgreSQL, SQL, Migrations)
+- Infraestrutura (Docker, Serverless, Deploy)
+- Segurança (Autenticação, Hashing, SQL Injection)
+- APIs e Comunicação (REST, HTTP, Stateless)
+- Arquitetura de Software (MVC, Error Handling)
+- Soft Skills e Princípios (Clean Code, Refatoração, Debugging)
+
+---
+
+### [Estudos Java - POO](https://github.com/kessleru/Java-POO)
+
 **Java, Programação Orientada a Objetos**  
-Projeto educacional focado nos fundamentos da programação orientada a objetos em Java.  
+Projeto educacional focado nos fundamentos da programação orientada a objetos em Java.
 
 **Conceitos principais:**
+
 - Conceitos do java
 - Classes, objetos e instanciação
 - Encapsulamento, herança e polimorfismo
 - Abstração e interfaces
 - Métodos construtores e sobrecarga
-
----
-
-### [Portfólio Pessoal](https://github.com/kessleru/Portifolio)  
-**HTML5, CSS3, JavaScript (futuro)**  
-Projeto desenvolvido na Origamid, atualmente com conteúdo genérico, futuramente personalizado com informações pessoais e funcionalidades interativas em JavaScript.  
-🌐 **Live:** [Pages](https://kessleru.github.io/Portifolio/)
-
-**Funcionalidades principais:**  
-- Seção de introdução com foto e descrição  
-- Experiência profissional  
-- Formação acadêmica  
-- Contato  
-- Design responsivo
