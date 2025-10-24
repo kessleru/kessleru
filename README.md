@@ -35,7 +35,7 @@
 ### [Aplicação Web Interativa - Animais Fantásticos](https://github.com/kessleru/Animais-Web)  
 **HTML5, CSS3, JavaScript ES6, Docker, Azure, Let's Encrypt**  
 Site interativo sobre animais selvagens com infraestrutura moderna em produção.  
-🌐 **Live:** [https://kessleru.dev](https://kessleru.dev) ou [https://kessleru.github.io/Animais-Web/](https://kessleru.github.io/Animais-Web/)
+🌐 **Live:** [https://kessleru.dev](https://kessleru.dev) ou [Pages](https://kessleru.github.io/Animais-Web/)
 
 **Funcionalidades principais:**  
 - Sistema de navegação por abas interativas
@@ -56,3 +56,17 @@ Projeto educacional focado nos fundamentos da programação orientada a objetos 
 - Encapsulamento, herança e polimorfismo
 - Abstração e interfaces
 - Métodos construtores e sobrecarga
+
+---
+
+### [Portfólio Pessoal](https://github.com/kessleru/Portifolio)  
+**HTML5, CSS3, JavaScript (futuro)**  
+Projeto desenvolvido na Origamid, atualmente com conteúdo genérico, futuramente personalizado com informações pessoais e funcionalidades interativas em JavaScript.  
+🌐 **Live:** [Pages](https://kessleru.github.io/Portifolio/)
+
+**Funcionalidades principais:**  
+- Seção de introdução com foto e descrição  
+- Experiência profissional  
+- Formação acadêmica  
+- Contato  
+- Design responsivo
