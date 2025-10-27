@@ -1,4 +1,4 @@
-<div align="center">
+-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 </div>
 
@@ -80,18 +80,3 @@ Projeto desenvolvido no curso.dev de Filipe Deschamps, reconstruindo do zero o T
 - APIs e Comunicação (REST, HTTP, Stateless)
 - Arquitetura de Software (MVC, Error Handling)
 - Soft Skills e Princípios (Clean Code, Refatoração, Debugging)
-
----
-
-### [Estudos Java - POO](https://github.com/kessleru/Java-POO)
-
-**Java, Programação Orientada a Objetos**  
-Projeto educacional focado nos fundamentos da programação orientada a objetos em Java.
-
-**Conceitos principais:**
-
-- Conceitos do java
-- Classes, objetos e instanciação
-- Encapsulamento, herança e polimorfismo
-- Abstração e interfaces
-- Métodos construtores e sobrecarga
