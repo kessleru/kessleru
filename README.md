@@ -30,6 +30,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED)
+![npm](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117&logoColor=2496ED)
 
 **Ferramentas de Desenvolvimento ▼**
 
@@ -41,6 +42,7 @@
 # Dados
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=kessleru&theme=algolia&date_format=j%2Fn%5B%2FY%5D&locale=pt-BR" alt="kessleru" />
   <img src="https://github-readme-stats.vercel.app/api?username=kessleru&show_icons=true&theme=algolia" height="165"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessleru&layout=compact&theme=algolia&hide=Jupyter%20Notebook" height="170" />
