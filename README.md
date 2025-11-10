@@ -69,7 +69,7 @@ Site interativo sobre animais selvagens com infraestrutura moderna em produção
 
 **HTML5, CSS3, JavaScript (futuro)**  
 Projeto desenvolvido na Origamid, atualmente com conteúdo genérico, futuramente personalizado com informações pessoais e funcionalidades interativas em JavaScript.  
-🌐 **Live:** [Pages](https://kessleru.github.io/Portifolio/)
+🌐 **Live:** [Pages](https://kessleru.github.io/Portfolio/)
 
 **Funcionalidades principais:**
 
