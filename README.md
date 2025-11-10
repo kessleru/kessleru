@@ -42,7 +42,6 @@
 # Dados
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kessleru&theme=algolia&date_format=j%2Fn%5B%2FY%5D&locale=pt-BR" alt="kessleru" />
   <img src="https://github-readme-stats.vercel.app/api?username=kessleru&show_icons=true&theme=algolia" height="165"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessleru&layout=compact&theme=algolia&hide=Jupyter%20Notebook" height="170" />
@@ -98,5 +97,3 @@ Projeto desenvolvido no curso.dev de Filipe Deschamps, reconstruindo do zero o T
 - APIs e Comunicação (REST, HTTP, Stateless)
 - Arquitetura de Software (MVC, Error Handling)
 - Soft Skills e Princípios (Clean Code, Refatoração, Debugging)
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004a95&height=120&section=footer"/>
