@@ -5,7 +5,9 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&width=435&lines=Ot%C3%A1vio+Kessler+Ustra;IFTM%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E-+%E2%80%8E+%E2%80%8E++Ituiutaba" alt="Typing SVG" /></a>
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kessleru&label=Profile%20views&color=36bcf7&style=flat" alt="kessleru" /> </p>
+
 # Sobre mim
 
 <p>
