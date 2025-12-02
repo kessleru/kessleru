@@ -42,14 +42,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=F24E1E)
 ![Excalidraw](https://img.shields.io/badge/-Excalidraw-0D1117?style=for-the-badge&logo=excalidraw&labelColor=0D1117&logoColor=FFB000)
 
-# Dados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kessleru&show_icons=true&theme=algolia" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessleru&layout=compact&theme=algolia&hide=Jupyter%20Notebook" height="170" />
-</p>
-
 # Projetos em destaque
 
 ### [Aplicação Web Interativa - Animais Fantásticos](https://github.com/kessleru/Animais-Web)
