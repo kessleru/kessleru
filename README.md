@@ -6,7 +6,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&width=435&lines=Ot%C3%A1vio+Kessler+Ustra;IFTM%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E-+%E2%80%8E+%E2%80%8E++Ituiutaba" alt="Typing SVG" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kessleru&label=Profile%20views&color=36bcf7&style=flat" alt="kessleru" /> </p>
 
 # Sobre mim
 
@@ -14,6 +13,7 @@
 - 👋 Olá, sou o Otávio. Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.<br>
 - 👀 Me interesso pela área de desenvolvimento web.
 - 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kessleru&label=Profile%20views&color=57a5fd&style=flat" alt="kessleru" /> </p>
 </p>
 
 # Minhas Skills
@@ -41,6 +41,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117&logoColor=E44C30)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=F24E1E)
 ![Excalidraw](https://img.shields.io/badge/-Excalidraw-0D1117?style=for-the-badge&logo=excalidraw&labelColor=0D1117&logoColor=FFB000)
+
+# Dados
+
+[![kessleru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kessleru&theme=tokyo-night)](https://github.com/kessleru/github-readme-activity-graph)
 
 # Projetos em destaque
 
