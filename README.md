@@ -6,7 +6,6 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&width=505&lines=Web+Developer+-+UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
-
 # Sobre mim
 
 <p>
@@ -64,19 +63,33 @@ Site interativo sobre animais selvagens com infraestrutura moderna em produção
 
 ---
 
-### [TabNews - Curso.dev](https://github.com/kessleru/tabnews-cursoDev)
+### [Bikcraft Web](https://github.com/kessleru/Bikcraft-Web)
 
-**JavaScript, Node.js, Next.js, React, PostgreSQL, Docker, Git**  
-🚧 **Em construção** - Atualizado mensalmente.  
-Projeto desenvolvido no curso.dev de Filipe Deschamps, reconstruindo do zero o TabNews (https://www.tabnews.com.br/). Focado em conhecimentos fundamentais de desenvolvimento full-stack, preparando para senioridade e trabalho em projetos reais.
+**HTML5, CSS3, JavaScript**  
+Site moderno para loja de bicicletas com design responsivo e interface profissional.  
+🌐 **Live:** [Pages](https://kessleru.github.io/Bikcraft-Web/)
 
-**Conceitos principais abordados:**
+**Funcionalidades principais:**
 
-- Controle de Versão e Colaboração (Git, GitHub, CI/CD)
-- Qualidade de Código (ESLint, Prettier, TDD/BDD, Testes)
-- Banco de Dados e Persistência (PostgreSQL, SQL, Migrations)
-- Infraestrutura (Docker, Serverless, Deploy)
-- Segurança (Autenticação, Hashing, SQL Injection)
-- APIs e Comunicação (REST, HTTP, Stateless)
-- Arquitetura de Software (MVC, Error Handling)
-- Soft Skills e Princípios (Clean Code, Refatoração, Debugging)
+- Catálogo de produtos interativo
+- Sistema de navegação intuitivo
+- Design responsivo e moderno
+- Formulário de contato
+- Otimização para SEO
+
+---
+
+### [Simple Todo List](https://github.com/kessleru/Todo-List-js)
+
+**HTML5, CSS3, JavaScript**  
+Aplicação simples e prática de lista de tarefas com interface intuitiva e funcionalidades essenciais.  
+🌐 **Live:** [Pages](https://kessleru.github.io/Todo-List-js/)
+
+**Funcionalidades principais:**
+
+- Adicionar e remover tarefas
+- Marcar tarefas como concluídas
+- Welcome-page dinâmica baseada na hora do dia
+- Interface limpa e responsiva
+- Armazenamento local de dados
+
