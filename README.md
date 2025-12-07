@@ -51,7 +51,7 @@
 
 **HTML5, CSS3, JavaScript ES6, Docker, Azure, Let's Encrypt**  
 Site interativo sobre animais selvagens com infraestrutura moderna em produção.  
-🌐 **Live:** [https://kessleru.dev](https://kessleru.dev) ou [Pages](https://kessleru.github.io/Animais-Web/)
+🌐 **Live:** h̵t̵t̵p̵s̵:̵/̵/̵k̵e̵s̵s̵l̵e̵r̵u̵.̵d̵e̵v̵ ou [Pages](https://kessleru.github.io/Animais-Web/)
 
 **Funcionalidades principais:**
 
