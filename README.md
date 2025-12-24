@@ -35,6 +35,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&logoColor=FFFFFF)
+![Actions](https://img.shields.io/badge/-Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED)
 ![npm](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117&logoColor=2496ED)
 
