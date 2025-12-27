@@ -69,19 +69,15 @@ Site interativo sobre animais selvagens com infraestrutura moderna em produção
 
 ---
 
-### [Bikcraft Web](https://github.com/kessleru/Bikcraft-Web)
+### [Forest Web](https://github.com/kessleru/Forest-Web)
 
-**HTML5, CSS3, JavaScript**  
-Site moderno para loja de bicicletas com design responsivo e interface profissional.  
-🌐 **Live:** [Pages](https://kessleru.github.io/Bikcraft-Web/)
+**HTML5, Tailwind, JavaScript, Vite**  
+Uma landing page para aluguel de casas e chalés em florestas, focada em conectar viajantes a refúgios naturais com conforto e estilo.  
+🌐 **Live:** [Vercel](https://forest-web-six.vercel.app/)
 
 **Funcionalidades principais:**
 
-- Catálogo de produtos interativo
-- Sistema de navegação intuitivo
-- Design responsivo e moderno
-- Formulário de contato
-- Otimização para SEO
+Pendente...
 
 ---
 
