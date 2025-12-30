@@ -56,34 +56,18 @@
 ### [UK - News](https://github.com/kessleru/Hacker-News-React)
 
 **React, Vite, Tailwind CSS, Axios**  
-Uma landing page para aluguel de casas e chalés em florestas, focada em conectar viajantes a refúgios naturais com conforto e estilo.  
+Leitor minimalista do Hacker News que consome a API oficial (Firebase) e exibe as notícias mais recentes com título, domínio, autor e tempo relativo.  
+
 🌐 **Live:** [Vercel](https://forest-web-six.vercel.app/)
-
-**Funcionalidades principais:**
-
-- [x] Menu responsivo (abre/fecha no mobile)
-- [x] Navegação por âncoras com scroll suave
-- [x] Hero com vídeo de fundo + botão **“Reserve Hoje”**
-- [x] Widget dinâmico de dia/“clima” (texto/ícone)
-- [x] Seções: acomodações, eventos, experiências e contato
 
 ---
 
 ### [Forest Web](https://github.com/kessleru/Forest-Web)
 
 **HTML5, Tailwind, JavaScript, Vite**  
-Leitor minimalista do Hacker News que consome a API oficial (Firebase) e exibe as notícias mais recentes com título, domínio, autor e tempo relativo.  
+Uma landing page para aluguel de casas e chalés em florestas, focada em conectar viajantes a refúgios naturais com conforto e estilo.
+
 🌐 **Live:** [Vercel](hacker-news-react-one.vercel.app)
-
-**Funcionalidades principais:**
-
-- [x] Lista das new stories em ordem numerada
-- [x] Link direto para a URL original + exibição do domínio
-- [x] Metadados do post (autor e “min/h ago”)
-- [x] UI simples e responsiva com Tailwind
-- [ ] Comentários
-- [ ] Inifinite Scroll
-- [ ] Testes Unitários
 
 ---
 
@@ -91,15 +75,8 @@ Leitor minimalista do Hacker News que consome a API oficial (Firebase) e exibe a
 
 **HTML5, CSS3, JavaScript ES6, Docker, Azure, Let's Encrypt**  
 Site interativo sobre animais selvagens com infraestrutura moderna em produção.  
+
 🌐 **Live:** h̵t̵t̵p̵s̵:̵/̵/̵k̵e̵s̵s̵l̵e̵r̵u̵.̵d̵e̵v̵ ou [Pages](https://kessleru.github.io/Animais-Web/)
-
-**Funcionalidades principais:**
-
-- [x] Sistema de navegação por abas interativas
-- [x] FAQ com efeito acordeão
-- [x] Animações de scroll e navegação suave
-- [x] Modal de login responsivo
-- [x] Design responsivo com CSS Grid
 
 ---
 
@@ -107,12 +84,5 @@ Site interativo sobre animais selvagens com infraestrutura moderna em produção
 
 **HTML5, CSS3, JavaScript**  
 Aplicação simples e prática de lista de tarefas com interface intuitiva e funcionalidades essenciais.  
+
 🌐 **Live:** [Pages](https://kessleru.github.io/Todo-List-js/)
-
-**Funcionalidades principais:**
-
-- [x] Adicionar e remover tarefas
-- [x] Marcar tarefas como concluídas
-- [x] Welcome-page dinâmica baseada na hora do dia
-- [x] Interface limpa e responsiva
-- [x] Armazenamento local de dados
