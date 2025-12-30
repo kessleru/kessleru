@@ -53,6 +53,36 @@
 
 # Projetos em destaque
 
+### [UK - News](https://github.com/kessleru/Hacker-News-React)
+
+**React, Vite, Tailwind CSS, Axios**  
+Uma landing page para aluguel de casas e chalés em florestas, focada em conectar viajantes a refúgios naturais com conforto e estilo.  
+🌐 **Live:** [Vercel](https://forest-web-six.vercel.app/)
+
+**Funcionalidades principais:**
+
+Pendente...
+
+---
+
+### [Forest Web](https://github.com/kessleru/Forest-Web)
+
+**HTML5, Tailwind, JavaScript, Vite**  
+Leitor minimalista do Hacker News que consome a API oficial (Firebase) e exibe as notícias mais recentes com título, domínio, autor e tempo relativo.  
+🌐 **Live:** [Vercel](hacker-news-react-one.vercel.app)
+
+**Funcionalidades principais:**
+
+- [x] Lista das new stories em ordem numerada
+- [x] Link direto para a URL original + exibição do domínio
+- [x] Metadados do post (autor e “min/h ago”)
+- [x] UI simples e responsiva com Tailwind
+- [] Comentários
+- [] Inifinite Scroll
+- [] Testes Unitários
+
+---
+
 ### [Aplicação Web Interativa - Animais Fantásticos](https://github.com/kessleru/Animais-Web)
 
 **HTML5, CSS3, JavaScript ES6, Docker, Azure, Let's Encrypt**  
@@ -61,23 +91,11 @@ Site interativo sobre animais selvagens com infraestrutura moderna em produção
 
 **Funcionalidades principais:**
 
-- Sistema de navegação por abas interativas
-- FAQ com efeito acordeão
-- Animações de scroll e navegação suave
-- Modal de login responsivo
-- Design responsivo com CSS Grid
-
----
-
-### [Forest Web](https://github.com/kessleru/Forest-Web)
-
-**HTML5, Tailwind, JavaScript, Vite**  
-Uma landing page para aluguel de casas e chalés em florestas, focada em conectar viajantes a refúgios naturais com conforto e estilo.  
-🌐 **Live:** [Vercel](https://forest-web-six.vercel.app/)
-
-**Funcionalidades principais:**
-
-Pendente...
+- [x] Sistema de navegação por abas interativas
+- [x] FAQ com efeito acordeão
+- [x] Animações de scroll e navegação suave
+- [x] Modal de login responsivo
+- [x] Design responsivo com CSS Grid
 
 ---
 
@@ -89,9 +107,8 @@ Aplicação simples e prática de lista de tarefas com interface intuitiva e fun
 
 **Funcionalidades principais:**
 
-- Adicionar e remover tarefas
-- Marcar tarefas como concluídas
-- Welcome-page dinâmica baseada na hora do dia
-- Interface limpa e responsiva
-- Armazenamento local de dados
-
+- [x] Adicionar e remover tarefas
+- [x] Marcar tarefas como concluídas
+- [x] Welcome-page dinâmica baseada na hora do dia
+- [x] Interface limpa e responsiva
+- [x] Armazenamento local de dados
