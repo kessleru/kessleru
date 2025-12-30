@@ -61,7 +61,11 @@ Uma landing page para aluguel de casas e chalés em florestas, focada em conecta
 
 **Funcionalidades principais:**
 
-Pendente...
+- [x] Menu responsivo (abre/fecha no mobile)
+- [x] Navegação por âncoras com scroll suave
+- [x] Hero com vídeo de fundo + botão **“Reserve Hoje”**
+- [x] Widget dinâmico de dia/“clima” (texto/ícone)
+- [x] Seções: acomodações, eventos, experiências e contato
 
 ---
 
@@ -77,9 +81,9 @@ Leitor minimalista do Hacker News que consome a API oficial (Firebase) e exibe a
 - [x] Link direto para a URL original + exibição do domínio
 - [x] Metadados do post (autor e “min/h ago”)
 - [x] UI simples e responsiva com Tailwind
-- [] Comentários
-- [] Inifinite Scroll
-- [] Testes Unitários
+- [ ] Comentários
+- [ ] Inifinite Scroll
+- [ ] Testes Unitários
 
 ---
 
