@@ -58,7 +58,7 @@
 **React, Vite, Tailwind CSS, Axios**  
 Leitor minimalista do Hacker News que consome a API oficial (Firebase) e exibe as notícias mais recentes com título, domínio, autor e tempo relativo.  
 
-🌐 **Live:** [Vercel](https://forest-web-six.vercel.app/)
+🌐 **Live:** [Vercel](https://hacker-news-react-one.vercel.app/)
 
 ---
 
