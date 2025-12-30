@@ -67,7 +67,7 @@ Leitor minimalista do Hacker News que consome a API oficial (Firebase) e exibe a
 **HTML5, Tailwind, JavaScript, Vite**  
 Uma landing page para aluguel de casas e chalés em florestas, focada em conectar viajantes a refúgios naturais com conforto e estilo.
 
-🌐 **Live:** [Vercel](hacker-news-react-one.vercel.app)
+🌐 **Live:** [Vercel](https://forest-web-six.vercel.app/)
 
 ---
 
