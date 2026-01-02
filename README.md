@@ -27,6 +27,7 @@
 ![Material UI](https://img.shields.io/badge/-Material_UI-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117&logoColor=007FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=5ed3f3)
+![React Router](https://img.shields.io/badge/-React%20Router-0D1117?style=for-the-badge&logo=reactrouter&labelColor=0D1117&logoColor=CA4245)
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117&logoColor=646CFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=4479A1)
