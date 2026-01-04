@@ -15,7 +15,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kessleru&label=Profile%20views&color=57a5fd&style=flat" alt="Profile views" />
   &nbsp;
-  <img src="https://www.codewars.com/users/kessleru/badges/small" alt="Codewars badge" />
+  <img src="https://www.codewars.com/users/kessleru/badges/micro" alt="Codewars badge" />
 </p>
 
 
