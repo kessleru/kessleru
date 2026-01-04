@@ -6,14 +6,18 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=10000&color=70A5FD&center=true&width=505&lines=Web+Developer" alt="Typing SVG" /></a>
 </p>
 
-# Sobre mim
+## Sobre mim
 
-<p>
-- 👋 Olá, sou o Otávio. Sou estudante de Ciência de Computção pelo IFTM Ituiutaba.<br>
+- 👋 Olá, sou o Otávio. Sou estudante de Ciência da Computação pelo IFTM Ituiutaba.
 - 👀 Me interesso pela área de desenvolvimento web.
-- 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kessleru&label=Profile%20views&color=57a5fd&style=flat" alt="kessleru" /> </p>
+- 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kessleru&label=Profile%20views&color=57a5fd&style=flat" alt="Profile views" />
+  &nbsp;
+  <img src="https://www.codewars.com/users/kessleru/badges/small" alt="Codewars badge" />
 </p>
+
 
 # Minhas Skills
 
