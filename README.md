@@ -31,6 +31,7 @@
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-0D1117?style=for-the-badge&logo=shadcnui&labelColor=0D1117&logoColor=FFFFFF)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117&logoColor=007FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=5ed3f3)
 ![React Router](https://img.shields.io/badge/-React%20Router-0D1117?style=for-the-badge&logo=reactrouter&labelColor=0D1117&logoColor=CA4245)
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117&logoColor=646CFF)
