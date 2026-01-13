@@ -57,7 +57,10 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" align="center"> Dados 
 
-[![kessleru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kessleru&theme=tokyo-night)](https://github.com/kessleru/github-readme-activity-graph)
+<div align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kessleru&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kessleru&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9"/>
+</div>
 
 <br>
 
