@@ -6,7 +6,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=10000&color=70A5FD&center=true&width=505&lines=<Web+Developer/>" alt="Typing SVG" /></a>
 </p>
 
-# <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35px"> Sobre mim
+# Sobre mim
 
 - 👋 Olá, sou o Otávio. Sou estudante de Ciência da Computação pelo IFTM Ituiutaba.
 - 👀 Me interesso pela área de desenvolvimento web.
@@ -20,7 +20,7 @@
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> Minhas Skills
+# Minhas Skills
 
 **Stack de Desenvolvimento ▼**
 
@@ -56,7 +56,7 @@
 
 <br>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" align="center"> Dados 
+# Dados 
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kessleru&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9"/>
