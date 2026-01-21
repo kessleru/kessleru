@@ -28,7 +28,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css&labelColor=0D1117&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&logoColor=38BDF8)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-0D1117?style=for-the-badge&logo=shadcnui&labelColor=0D1117&logoColor=FFFFFF)
-![Material UI](https://img.shields.io/badge/-Material_UI-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117&logoColor=007FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=5ed3f3)
