@@ -75,12 +75,12 @@ Aplicação completa de rede social com autenticação JWT, sistema de login/reg
 
 ---
 
-### [Sky Atlas](https://github.com/kessleru/Social-Media-React)
+### [Sky Atlas](https://github.com/kessleru/Sky-Atlas)
 
 **React, Vite, TypeScript, Tailwind CSS, TanStack Query, Zod, Shadcn UI**  
 Um visualizador meteorológico global em tempo real que permite explorar as condições climáticas de qualquer lugar do planeta por meio de um mapa interativo.
 
-🌐 **Live:** [Vercel](sky-atlas-eight.vercel.app)
+🌐 **Live:** [Vercel](https://sky-atlas-eight.vercel.app/)
 
 ---
 
