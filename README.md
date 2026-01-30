@@ -68,7 +68,7 @@
 
 ### [Dogs - Rede Social](https://github.com/kessleru/Social-Media-React)
 
-**React 19, Vite, Tailwind CSS, React Router, Victory, JWT**  
+**React, Vite, Tailwind CSS, React Router, Victory, JWT**  
 Aplicação completa de rede social com autenticação JWT, sistema de login/registro, feed com scroll infinito, upload de fotos, sistema de comentários, visualização de perfis públicos e dashboard com estatísticas em gráficos interativos (Victory).
 
 🌐 **Live:** [Vercel](https://social-media-react-bice.vercel.app/)
