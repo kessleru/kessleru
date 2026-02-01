@@ -18,7 +18,6 @@
   <img src="https://www.codewars.com/users/kessleru/badges/micro" alt="Codewars badge" />
 </p>
 
-<br>
 
 ![My GitHub Game](game.gif)
 
