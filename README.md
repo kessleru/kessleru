@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
-</div>
-
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=10000&color=70A5FD&center=true&width=505&lines=<Web+Developer/>" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&vCenter=true&repeat=false&width=435&lines=%3CWeb+Developer%2F%3E" alt="Typing SVG" /></a>
 </p>
 
-# Sobre mim
+## Sobre mim
 
 - 👋 Olá, sou o Otávio. Sou estudante de Ciência da Computação pelo IFTM Ituiutaba.
 - 👀 Me interesso pela área de desenvolvimento web.
@@ -21,7 +17,7 @@
 
 ![My GitHub Game](game.gif)
 
-# Minhas Skills
+## Minhas Skills
 
 **Stack de Desenvolvimento ▼**
 
@@ -56,7 +52,7 @@
 
 <br>
 
-# Dados 
+## Dados 
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kessleru&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9"/>
@@ -65,7 +61,7 @@
 
 <br>
 
-# Projetos em destaque
+## Projetos em destaque
 
 ### [Dogs - Rede Social](https://github.com/kessleru/Social-Media-React)
 
