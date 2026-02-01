@@ -20,6 +20,8 @@
 
 <br>
 
+![My GitHub Game](game.gif)
+
 # Minhas Skills
 
 **Stack de Desenvolvimento ▼**
