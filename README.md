@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Card.jpg">
+  <img src="./ProfileCard.jpg">
 </p>
 
 ## Sobre mim
