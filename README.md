@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./Profile.jpg">
-</p>
+# Web Developer
 
 ## Sobre mim
 
