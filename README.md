@@ -6,12 +6,10 @@
 - 👀 Me interesso pela área de desenvolvimento web.
 - 🧑‍💻 Procuro sempre melhorar minhas habilidades e me aprofundar sobre o mundo da programação.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kessleru&label=Profile%20views&color=57a5fd&style=flat" alt="Profile views" />
-  &nbsp;
-  <img src="https://www.codewars.com/users/kessleru/badges/micro" alt="Codewars badge" />
-</p>
-
+[![Portfolio](https://img.shields.io/badge/kessleru.com.br-Portfolio-006d32?style=flat&logo=google-chrome&logoColor=white)](https://kessleru.com.br)
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=kessleru&label=Profile%20views&color=006d32&style=flat" alt="Profile views" />
+&nbsp;
 
 ![My GitHub Game](game.gif)
 
