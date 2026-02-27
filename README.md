@@ -39,8 +39,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&logoColor=FFFFFF)
 ![Actions](https://img.shields.io/badge/-Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED)
-![npm](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117&logoColor=2496ED)
-![pnpm](https://img.shields.io/badge/-pnpm-0D1117?style=for-the-badge&logo=pnpm&labelColor=0D1117&logoColor=F69220)
 
 **Ferramentas de Desenvolvimento ▼**
 
@@ -48,6 +46,7 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117&logoColor=5849BE)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=F24E1E)
 ![Excalidraw](https://img.shields.io/badge/-Excalidraw-0D1117?style=for-the-badge&logo=excalidraw&labelColor=0D1117&logoColor=FFB000)
+![pnpm](https://img.shields.io/badge/-pnpm-0D1117?style=for-the-badge&logo=pnpm&labelColor=0D1117&logoColor=F69220)
 
 <br>
 
