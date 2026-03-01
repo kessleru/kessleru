@@ -43,6 +43,7 @@
 **Ferramentas de Desenvolvimento ▼**
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117&logoColor=007ACC)
+![Zed](https://img.shields.io/badge/-Zed-0D1117?style=for-the-badge&logo=zedindustries&labelColor=0D1117&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117&logoColor=5849BE)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=F24E1E)
 ![Excalidraw](https://img.shields.io/badge/-Excalidraw-0D1117?style=for-the-badge&logo=excalidraw&labelColor=0D1117&logoColor=FFB000)
