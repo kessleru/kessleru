@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,DejaVu Sans Mono,monospace" width="1238px" height="780px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
+.chave { fill: #953800; }
+.valor { fill: #0550ae; }
+.pontos { fill: #8c959f; }
+.linha { fill: #8c959f; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="1238px" height="780px" fill="#ffffff" stroke="#d0d7de" rx="15"/>
+<text x="15" y="30" xml:space="preserve" fill="#24292f">
+<tspan x="15" y="30">                  .::-::*:*+***:----..</tspan>
+<tspan x="15" y="50">              ..-::::****+=%====+++*--...</tspan>
+<tspan x="15" y="70">            .--:*++=%###%%=%+=%=#%=*++:...</tspan>
+<tspan x="15" y="90">          .---::*=%%##%++%##@@##%+**#**+*:-.</tspan>
+<tspan x="15" y="110">        ..---:+=###@@@#=+++===%#@@#%%++%=+*:-</tspan>
+<tspan x="15" y="130">       ...-*+%#@@@@@@@@###@@@@#%=%@##%*%#%=*:-..</tspan>
+<tspan x="15" y="150">     ...-:+%#@@@@@#%%%%###@@@@@@#=%@@@@%+%=---...</tspan>
+<tspan x="15" y="170">    ...-*=%#@@#%=+++++==%%##@@@@@#=#@@#@=%#***-..</tspan>
+<tspan x="15" y="190">   ..--*=%#@#=*::****++=====%#@@@#%#@@@#@%+**-:-..</tspan>
+<tspan x="15" y="210">     .:+%@@#+::::*****+++====%#@@###@##@#@=***+:.</tspan>
+<tspan x="15" y="230">     -*+%@#*-----::****+++++++=%@@###@####@#=:.*:</tspan>
+<tspan x="15" y="250">    .::+#@+.  ..--:*******+++===%@@@@#@@@@@###%:</tspan>
+<tspan x="15" y="270">   .-:*+@#:*===%###%**+**+#@@@@@@@@@@@@@@@@##%=+-.</tspan>
+<tspan x="15" y="290">   .-*+%@**+*+++=%%%*:***+%#%%%===+*:=%#@@#%%%==*:..</tspan>
+<tspan x="15" y="310">  . .+%##. .:+=%####%:.:**=#@@@@@#%=*.:*@@#@@#%=+-.</tspan>
+<tspan x="15" y="330">  . .+%@+ .+=+%%%#@#+. :**+%#####%%%%=*-+@#@@@=-.</tspan>
+<tspan x="15" y="350">   .-+%%- . .::**+*:.  :**::*++++++**++:-@@@@#=:---.</tspan>
+<tspan x="15" y="370">   -:**=- -...-----.  .***::*********:*:-#%%=+**:-..</tspan>
+<tspan x="15" y="390">   .--:%* .. .--:*+.  :**:--:++******:*:-#%+-***:-..</tspan>
+<tspan x="15" y="410">   ..--**   .--:*=+.:+-::*=*-++******::::%%-.-....</tspan>
+<tspan x="15" y="430">   ..::.-. .--:**-..-==+*=@#=*:*******::*%*</tspan>
+<tspan x="15" y="450">    .....- .--**:--***=%==%##%%%=******-==*:--.</tspan>
+<tspan x="15" y="470">       ... .-:*+=+++++****+++=%##@%*:***=:--..</tspan>
+<tspan x="15" y="490">       ... .-:*+++=**++========++=+***:=+.-::-..</tspan>
+<tspan x="15" y="510">         .---::*-..-:::**:***:::******:#+:*:-..</tspan>
+<tspan x="15" y="530">        .----.-:--::**+=%=*********:*+**+:--..</tspan>
+<tspan x="15" y="550">           .-*:.----:*+=%%++*****::*+**-....</tspan>
+<tspan x="15" y="570">          -:-**.-::-.:+++++++**:*+++***:...</tspan>
+<tspan x="15" y="590">          ---*=- -:+===%%=====++=+****:::---</tspan>
+<tspan x="15" y="610">          -::*=. ...-*=%%%%%=++++******::-.-.</tspan>
+<tspan x="15" y="630">         .-***== .--.--:******+++*****:::-.--.</tspan>
+<tspan x="15" y="650">        ..-+=+=@+ .-::::**+*++*++*******:.-*-.</tspan>
+<tspan x="15" y="670">        .--*==+=#=. -******************:--*:-.</tspan>
+<tspan x="15" y="690">        ..-:+*+++==. ::::::::::::::::::-*+*:-.</tspan>
+<tspan x="15" y="710">        ..--*::**:*+. -----..---------:**::-..</tspan>
+<tspan x="15" y="730">        . ..-.-------  .... .........-----...</tspan>
+<tspan x="15" y="750">                                    ..</tspan>
+</text>
+<text x="544" y="30" xml:space="preserve" fill="#24292f">
+<tspan x="544" y="30">otavio@kessleru <tspan class="linha">--------------------------------------------------</tspan></tspan>
+<tspan x="544" y="50"><tspan class="linha">- </tspan>Sistema <tspan class="linha">--------------------------------------------------------</tspan></tspan>
+<tspan x="544" y="70"><tspan class="pontos">. </tspan><tspan class="chave">OS</tspan>:<tspan class="pontos"> ........................................... </tspan><tspan class="valor">Windows 11, WSL2</tspan></tspan>
+<tspan x="544" y="90"><tspan class="pontos">. </tspan><tspan class="chave">Uptime</tspan>:<tspan class="pontos"> ...................................................... </tspan><tspan class="valor">-</tspan></tspan>
+<tspan x="544" y="110"><tspan class="pontos">. </tspan><tspan class="chave">Host</tspan>:<tspan class="pontos"> ............................. </tspan><tspan class="valor">IFTM - Ciencia da Computacao</tspan></tspan>
+<tspan x="544" y="130"><tspan class="pontos">. </tspan><tspan class="chave">Grupo</tspan>:<tspan class="pontos"> .......................................... </tspan><tspan class="valor">PET Computacao</tspan></tspan>
+<tspan x="544" y="150"><tspan class="pontos">. </tspan><tspan class="chave">Editor</tspan>:<tspan class="pontos"> ....................... </tspan><tspan class="valor">VS Code (One Dark Pro, Prettier)</tspan></tspan>
+<tspan x="544" y="190"><tspan class="linha">- </tspan>Stack <tspan class="linha">----------------------------------------------------------</tspan></tspan>
+<tspan x="544" y="210"><tspan class="pontos">. </tspan><tspan class="chave">Languages.Programming</tspan>:<tspan class="pontos"> .... </tspan><tspan class="valor">TypeScript, JavaScript, Java, Python</tspan></tspan>
+<tspan x="544" y="230"><tspan class="pontos">. </tspan><tspan class="chave">Languages.Computer</tspan>:<tspan class="pontos"> ....... </tspan><tspan class="valor">HTML, CSS, SQL, JSON, YAML, Markdown</tspan></tspan>
+<tspan x="544" y="250"><tspan class="pontos">. </tspan><tspan class="chave">Languages.Real</tspan>:<tspan class="pontos"> .............................. </tspan><tspan class="valor">Portugues, Ingles</tspan></tspan>
+<tspan x="544" y="270"><tspan class="pontos">. </tspan><tspan class="chave">Backend</tspan>:<tspan class="pontos"> ................. </tspan><tspan class="valor">Node.js, Express, Prisma, SQLite, Zod</tspan></tspan>
+<tspan x="544" y="290"><tspan class="pontos">. </tspan><tspan class="chave">Frontend</tspan>:<tspan class="pontos"> ............................ </tspan><tspan class="valor">React, Tailwind CSS, Vite</tspan></tspan>
+<tspan x="544" y="310"><tspan class="pontos">. </tspan><tspan class="chave">Ferramentas</tspan>:<tspan class="pontos"> ..................... </tspan><tspan class="valor">Git, Vitest, Docker, Insomnia</tspan></tspan>
+<tspan x="544" y="350"><tspan class="linha">- </tspan>Projetos <tspan class="linha">-------------------------------------------------------</tspan></tspan>
+<tspan x="544" y="370"><tspan class="pontos">. </tspan><tspan class="chave">Backend-express</tspan>:<tspan class="pontos"> ................ </tspan><tspan class="valor">curso de backend em 20 modulos</tspan></tspan>
+<tspan x="544" y="390"><tspan class="pontos">. </tspan><tspan class="chave">Certificados</tspan>:<tspan class="pontos"> ...................... </tspan><tspan class="valor">gerador automatico de .docx</tspan></tspan>
+<tspan x="544" y="410"><tspan class="pontos">. </tspan><tspan class="chave">Portfolio</tspan>:<tspan class="pontos"> ..................................... </tspan><tspan class="valor">kessleru.com.br</tspan></tspan>
+<tspan x="544" y="450"><tspan class="linha">- </tspan>Contato <tspan class="linha">--------------------------------------------------------</tspan></tspan>
+<tspan x="544" y="470"><tspan class="pontos">. </tspan><tspan class="chave">Email</tspan>:<tspan class="pontos"> .......................... </tspan><tspan class="valor">kesslerustra13012006@gmail.com</tspan></tspan>
+<tspan x="544" y="490"><tspan class="pontos">. </tspan><tspan class="chave">Site</tspan>:<tspan class="pontos"> .......................................... </tspan><tspan class="valor">kessleru.com.br</tspan></tspan>
+<tspan x="544" y="510"><tspan class="pontos">. </tspan><tspan class="chave">GitHub</tspan>:<tspan class="pontos"> ............................................... </tspan><tspan class="valor">kessleru</tspan></tspan>
+<tspan x="544" y="530"><tspan class="pontos">. </tspan><tspan class="chave">LinkedIn</tspan>:<tspan class="pontos"> ............................... </tspan><tspan class="valor">otavio-ustra-8b50bb364</tspan></tspan>
+<tspan x="544" y="550"><tspan class="pontos">. </tspan><tspan class="chave">Discord</tspan>:<tspan class="pontos"> .............................................. </tspan><tspan class="valor">kessleru</tspan></tspan>
+<tspan x="544" y="590"><tspan class="linha">- </tspan>GitHub Stats <tspan class="linha">---------------------------------------------------</tspan></tspan>
+<tspan x="544" y="610"><tspan class="pontos">. </tspan><tspan class="chave">Repos</tspan>:<tspan class="pontos"> ...................................... </tspan><tspan class="valor">- (- contribuidos)</tspan></tspan>
+<tspan x="544" y="630"><tspan class="pontos">. </tspan><tspan class="chave">Stars</tspan>:<tspan class="pontos"> ....................................................... </tspan><tspan class="valor">-</tspan></tspan>
+<tspan x="544" y="650"><tspan class="pontos">. </tspan><tspan class="chave">Commits</tspan>:<tspan class="pontos"> ..................................................... </tspan><tspan class="valor">-</tspan></tspan>
+<tspan x="544" y="670"><tspan class="pontos">. </tspan><tspan class="chave">Seguidores</tspan>:<tspan class="pontos"> .................................................. </tspan><tspan class="valor">-</tspan></tspan>
+<tspan x="544" y="690"><tspan class="pontos">. </tspan><tspan class="chave">Linguagem principal</tspan>:<tspan class="pontos"> ......................................... </tspan><tspan class="valor">-</tspan></tspan>
+</text>
+</svg>

@@ -1,0 +1,128 @@
+{
+  "usuario_github": "kessleru",
+  "titulo": "otavio@kessleru",
+  "largura_coluna": 66,
+  "secoes": [
+    {
+      "titulo": "Sistema",
+      "linhas": [
+        {
+          "chave": "OS",
+          "valor": "Windows 11, WSL2"
+        },
+        {
+          "chave": "Uptime",
+          "valor": "{uptime}"
+        },
+        {
+          "chave": "Host",
+          "valor": "IFTM - Ciencia da Computacao"
+        },
+        {
+          "chave": "Grupo",
+          "valor": "PET Computacao"
+        },
+        {
+          "chave": "Editor",
+          "valor": "VS Code (One Dark Pro, Prettier)"
+        }
+      ]
+    },
+    {
+      "titulo": "Stack",
+      "linhas": [
+        {
+          "chave": "Languages.Programming",
+          "valor": "TypeScript, JavaScript, Java, Python"
+        },
+        {
+          "chave": "Languages.Computer",
+          "valor": "HTML, CSS, SQL, JSON, YAML, Markdown"
+        },
+        {
+          "chave": "Languages.Real",
+          "valor": "Portugues, Ingles"
+        },
+        {
+          "chave": "Backend",
+          "valor": "Node.js, Express, Prisma, SQLite, Zod"
+        },
+        {
+          "chave": "Frontend",
+          "valor": "React, Tailwind CSS, Vite"
+        },
+        {
+          "chave": "Ferramentas",
+          "valor": "Git, Vitest, Docker, Insomnia"
+        }
+      ]
+    },
+    {
+      "titulo": "Projetos",
+      "linhas": [
+        {
+          "chave": "Backend-express",
+          "valor": "curso de backend em 20 modulos"
+        },
+        {
+          "chave": "Certificados",
+          "valor": "gerador automatico de .docx"
+        },
+        {
+          "chave": "Portfolio",
+          "valor": "kessleru.com.br"
+        }
+      ]
+    },
+    {
+      "titulo": "Contato",
+      "linhas": [
+        {
+          "chave": "Email",
+          "valor": "kesslerustra13012006@gmail.com"
+        },
+        {
+          "chave": "Site",
+          "valor": "kessleru.com.br"
+        },
+        {
+          "chave": "GitHub",
+          "valor": "kessleru"
+        },
+        {
+          "chave": "LinkedIn",
+          "valor": "otavio-ustra-8b50bb364"
+        },
+        {
+          "chave": "Discord",
+          "valor": "kessleru"
+        }
+      ]
+    },
+    {
+      "titulo": "GitHub Stats",
+      "linhas": [
+        {
+          "chave": "Repos",
+          "valor": "{repos} ({contrib} contribuidos)"
+        },
+        {
+          "chave": "Stars",
+          "valor": "{stars}"
+        },
+        {
+          "chave": "Commits",
+          "valor": "{commits}"
+        },
+        {
+          "chave": "Seguidores",
+          "valor": "{followers}"
+        },
+        {
+          "chave": "Linguagem principal",
+          "valor": "{top_lang}"
+        }
+      ]
+    }
+  ]
+}
