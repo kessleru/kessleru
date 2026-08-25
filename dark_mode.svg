@@ -52,7 +52,7 @@ text, tspan { white-space: pre; }
 <tspan x="544" y="30">otavio@kessleru <tspan class="linha">--------------------------------------------------</tspan></tspan>
 <tspan x="544" y="50"><tspan class="linha">- </tspan>Sistema <tspan class="linha">--------------------------------------------------------</tspan></tspan>
 <tspan x="544" y="70"><tspan class="pontos">. </tspan><tspan class="chave">OS</tspan>:<tspan class="pontos"> ........................................... </tspan><tspan class="valor">Windows 11, WSL2</tspan></tspan>
-<tspan x="544" y="90"><tspan class="pontos">. </tspan><tspan class="chave">Uptime</tspan>:<tspan class="pontos"> .............................. </tspan><tspan class="valor">4 anos, 11 meses, 15 dias</tspan></tspan>
+<tspan x="544" y="90"><tspan class="pontos">. </tspan><tspan class="chave">Uptime</tspan>:<tspan class="pontos"> .............................. </tspan><tspan class="valor">4 anos, 11 meses, 16 dias</tspan></tspan>
 <tspan x="544" y="110"><tspan class="pontos">. </tspan><tspan class="chave">Host</tspan>:<tspan class="pontos"> ............................. </tspan><tspan class="valor">IFTM - Ciencia da Computacao</tspan></tspan>
 <tspan x="544" y="130"><tspan class="pontos">. </tspan><tspan class="chave">Grupo</tspan>:<tspan class="pontos"> .......................................... </tspan><tspan class="valor">PET Computacao</tspan></tspan>
 <tspan x="544" y="150"><tspan class="pontos">. </tspan><tspan class="chave">Editor</tspan>:<tspan class="pontos"> ....................... </tspan><tspan class="valor">VS Code (One Dark Pro, Prettier)</tspan></tspan>
@@ -76,7 +76,7 @@ text, tspan { white-space: pre; }
 <tspan x="544" y="590"><tspan class="linha">- </tspan>GitHub Stats <tspan class="linha">---------------------------------------------------</tspan></tspan>
 <tspan x="544" y="610"><tspan class="pontos">. </tspan><tspan class="chave">Repos</tspan>:<tspan class="pontos"> ..................................... </tspan><tspan class="valor">97 (2 contribuidos)</tspan></tspan>
 <tspan x="544" y="630"><tspan class="pontos">. </tspan><tspan class="chave">Stars</tspan>:<tspan class="pontos"> ...................................................... </tspan><tspan class="valor">14</tspan></tspan>
-<tspan x="544" y="650"><tspan class="pontos">. </tspan><tspan class="chave">Commits</tspan>:<tspan class="pontos"> ................................................. </tspan><tspan class="valor">1.174</tspan></tspan>
+<tspan x="544" y="650"><tspan class="pontos">. </tspan><tspan class="chave">Commits</tspan>:<tspan class="pontos"> ................................................. </tspan><tspan class="valor">1.175</tspan></tspan>
 <tspan x="544" y="670"><tspan class="pontos">. </tspan><tspan class="chave">Seguidores</tspan>:<tspan class="pontos"> ................................................. </tspan><tspan class="valor">18</tspan></tspan>
 <tspan x="544" y="690"><tspan class="pontos">. </tspan><tspan class="chave">Linguagem principal</tspan>:<tspan class="pontos"> .......................... </tspan><tspan class="valor">TypeScript (42%)</tspan></tspan>
 </text>
