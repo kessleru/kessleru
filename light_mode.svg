@@ -52,7 +52,7 @@ text, tspan { white-space: pre; }
 <tspan x="544" y="30">otavio@kessleru <tspan class="linha">--------------------------------------------------</tspan></tspan>
 <tspan x="544" y="50"><tspan class="linha">- </tspan>Sistema <tspan class="linha">--------------------------------------------------------</tspan></tspan>
 <tspan x="544" y="70"><tspan class="pontos">. </tspan><tspan class="chave">OS</tspan>:<tspan class="pontos"> ........................................... </tspan><tspan class="valor">Windows 11, WSL2</tspan></tspan>
-<tspan x="544" y="90"><tspan class="pontos">. </tspan><tspan class="chave">Uptime</tspan>:<tspan class="pontos"> .............................. </tspan><tspan class="valor">4 anos, 11 meses, 22 dias</tspan></tspan>
+<tspan x="544" y="90"><tspan class="pontos">. </tspan><tspan class="chave">Uptime</tspan>:<tspan class="pontos"> .............................. </tspan><tspan class="valor">4 anos, 11 meses, 23 dias</tspan></tspan>
 <tspan x="544" y="110"><tspan class="pontos">. </tspan><tspan class="chave">Host</tspan>:<tspan class="pontos"> ............................. </tspan><tspan class="valor">IFTM - Ciencia da Computacao</tspan></tspan>
 <tspan x="544" y="130"><tspan class="pontos">. </tspan><tspan class="chave">Grupo</tspan>:<tspan class="pontos"> .......................................... </tspan><tspan class="valor">PET Computacao</tspan></tspan>
 <tspan x="544" y="150"><tspan class="pontos">. </tspan><tspan class="chave">Editor</tspan>:<tspan class="pontos"> ....................... </tspan><tspan class="valor">VS Code (One Dark Pro, Prettier)</tspan></tspan>
